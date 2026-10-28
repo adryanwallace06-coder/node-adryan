@@ -5,3 +5,7 @@ npm init - y
 
 npm install 
 -> criar package-lock
+
+npm install express 
+-> criar node_modules - dependências do framework 
+
